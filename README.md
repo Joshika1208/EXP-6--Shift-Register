@@ -83,6 +83,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
+<img width="1600" height="900" alt="j exp 6" src="https://github.com/user-attachments/assets/cddeb9c9-1c0d-4a1f-91e7-d721f26444ce" />
 
 
 ## Viva-Voce Questions
